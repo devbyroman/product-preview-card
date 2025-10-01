@@ -13,7 +13,7 @@
 ### Links
 
 - Solution URL: [Product-Preview-Card](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-- Live Site URL: [Live Site Vercel](https://recipe-page-two-neon.vercel.app/)
+- Live Site URL: [Live Site Vercel](https://product-preview-card-eight-iota.vercel.app/)
 
 
 ### Built with
